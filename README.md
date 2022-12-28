@@ -1,5 +1,5 @@
 # MerakiAutomation
-Just a set of scripts to automate tasks related to Meraki devices
+A set of scripts to automate tasks related to Meraki devices
 
 # NetworkDevices.py
 1) Script will sort through all the organizations under the user informed APIKEY.
